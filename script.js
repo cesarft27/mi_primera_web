@@ -1,5 +1,5 @@
 
-let titulo = document.querySelector("h1");
+let titulo = document.querySelector("h1").d;
 console.log(titulo);
 
 /* 
